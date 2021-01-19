@@ -57,6 +57,10 @@ a:hover{
     color: #ff8000;
 }
 /* Home screen */
+.logo{
+    max-width: 24rem;
+    max-height: 24rem;
+}
 .products {
     display: flex;
     justify-content: center;
